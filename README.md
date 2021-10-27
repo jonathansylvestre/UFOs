@@ -1,6 +1,7 @@
 Overview
 
-The purpose of this analysis was to provide users the ability to filter UFO sightings by more specific criteria such as city, state, country, and shape. The data filter was useful but a bit broad as not all find the rate of occurrences as useful as the location of them. With the added filters, a user may be able to pinpoint specific sightings for the purpose of verifying the sighting with other sources or finding patterns for certain areas.
+The purpose of this analysis was to provide users the ability to filter UFO sightings by more specific criteria such as city, state, country, and shape. The data filter was useful but a bit broad as not all find the rate of occurrences as useful as the location of them. With the added filters, a user may be able to pinpoint specific sightings for the purpose of verifying the sighting with other sources or finding patterns for certain areas. 
+
 Results
 
 For someone interested in finding out if there were any UFO sightings near them, they should follow these steps:
